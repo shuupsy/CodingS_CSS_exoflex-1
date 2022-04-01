@@ -1,0 +1,14 @@
+.flex-container {
+    background-color: burlywood;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    gap: 10px;
+}
+
+.flex-item {
+    background-color: #FF4500;
+    height: 15vh;
+    padding: 30px;
+}
